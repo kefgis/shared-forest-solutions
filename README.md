@@ -11,3 +11,14 @@ Shared Forest Solutions aims to:
 - 🔄 Support planning, monitoring, and implementation of forest management activities.
 - 🤝 Foster knowledge exchange among foresters—horizontally and vertically.
 - 🧩 Promote the use of open-source data, tools, and standards for inclusive forest governance.
+
+## How to Contribute
+
+We welcome contributions from foresters, GIS experts, and planners. You can:
+
+- Submit improved templates or localized examples
+- Share feedback on usability and structure
+- Propose new modules for planning or monitoring
+- Report issues or suggest enhancements
+
+Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) and respect data sensitivities.
